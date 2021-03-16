@@ -3,6 +3,6 @@
 *** Variables ***
 
 *** Test Cases ***
-verify the basic Functionality
+verify the basic Functionality TC
 
 *** Keywords ***
